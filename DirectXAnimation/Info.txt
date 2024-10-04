@@ -1,0 +1,1 @@
+This is a renderer that is able to play animations from a couple of file formats. I've used open source code such as ImGui, cgltf, hw3d and some more for reference.
